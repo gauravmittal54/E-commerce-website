@@ -28,7 +28,7 @@ Welcome to the E-Commerce Website project! This project aims to create a fully f
 ## Getting Started
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/e-commerce-project.git
+   git clone https://github.com/gauravmittal54/E-commerce-website
 
 ## Install server dependencies:
 cd e-commerce-project/server
