@@ -31,9 +31,8 @@ Welcome to the E-Commerce Website project! This project aims to create a fully f
    git clone https://github.com/gauravmittal54/E-commerce-website
 
 ## Install server dependencies:
-cd e-commerce-project/server
+cd E-commerce-website/server
 npm install
-
 
 ## Configure environment variables:
 
@@ -44,7 +43,7 @@ Rename .env.example files in both the server and client directories to .env and 
 Make sure your MongoDB server is running.
 Run the database initialization script or import a sample dataset if provided.
 Start the development server:
-# From the 'server' directory
+From the 'server' directory
 npm start
 
 ## Usage
