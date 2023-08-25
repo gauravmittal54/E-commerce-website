@@ -32,6 +32,7 @@ Welcome to the E-Commerce Website project! This project aims to create a fully f
 
 ## Install server dependencies:
 cd E-commerce-website/server
+
 npm install
 
 ## Configure environment variables:
