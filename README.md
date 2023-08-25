@@ -1,6 +1,5 @@
 # E-Commerce Website Project
 
-![Project Banner](project_banner.png) <!-- Replace with an image/banner of your project -->
 
 Welcome to the E-Commerce Website project! This project aims to create a fully functional e-commerce website using Node.js, React, and MongoDB.
 
@@ -54,10 +53,14 @@ Access the admin panel at: http://localhost:3000/admin
 
 ## Technologies Used
 Front-End: React, React Router, Redux
+
 Back-End: Node.js, Express.js
+
 Database: MongoDB
+
 Authentication: JSON Web Tokens (JWT)
-Styling: CSS, Styled Components (or your preferred styling approach)
+
+Styling: CSS
 
 ## Contributing
 Contributions are welcome! If you find a bug or want to add a new feature, feel free to open an issue or submit a pull request.
